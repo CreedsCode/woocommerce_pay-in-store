@@ -1,0 +1,13 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "watch",
+            "path": ".vscode/utils/",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "npm: watch - .vscode/utils",
+            "detail": "node watch.js"
+        }
+    ]
+}
